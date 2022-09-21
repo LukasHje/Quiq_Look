@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Lab5" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/neverheart_green</item>
+        <item name="colorPrimaryDark">@color/neverheart_darker_green</item>
+        <item name="colorAccent">@color/neverheart_black</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

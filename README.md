@@ -1,5 +1,5 @@
 # Quiq Look
-These is one of the projects that I've been working on during my bachelors
+The app was developed during an Android course. Created in April 2021 
 
 ----
 **This is an android app that uses geograpichal services to log user submitted observations**
